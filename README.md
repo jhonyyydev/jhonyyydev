@@ -108,11 +108,8 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 
-## 👨‍💻 Coding Time
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonnnydev&theme=tokyonight" alt="Wakatime Stats" />
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jhonnnydev&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jhonnnydev?label=Followers&style=social" alt="Followers" />
 </div>
