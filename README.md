@@ -19,7 +19,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://tiktok.com/@your_username" target="_blank">
+  <a href="https://tiktok.com/@iam_jhonatannnnn" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
