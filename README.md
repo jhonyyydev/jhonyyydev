@@ -1,22 +1,22 @@
 # Jhonatan Veloza | Digital Solutions Architect
 
+## About Me
+
+- I'm currently working as a **Software Developer** at **Siscem**
+- Leading development of core modules (users, roles) and WhatsApp Business API integration
+- Completing my **Systems Engineering** degree
+- Collaborating with a select startup team on an open-source project
+- Creating tech content on TikTok to build my personal brand
+- How to reach me: [jvelozamalaver@gmail.com](mailto:jvelozamalaver@gmail.com)
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=DS-Digital&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=100&lines=Full+Stack+Developer;Systems+Engineering+Student;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
   </div>
   <div style="flex: 0 0 auto;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NyM2RzbWQzdm4yZW91d3J5M205bDNmZWlvbDRlNHh4cmVmMDl3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.gif" width="200" alt="Coding Animation" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndzN3g3Z2FmN3M1Nm1zcGJrNGJvZHRraWZlY21lbjRtbWx4OGo1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vdlbr6lcVAmGK7lhB/giphy.gif" width="200" alt="Coding Animation" />
   </div>
 </div>
-
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working as a **Software Developer** at **Siscem**
-- 🚀 Leading development of core modules (users, roles) and WhatsApp Business API integration
-- 🌱 Completing my **Systems Engineering** degree
-- 🤝 Collaborating with a select startup team on an open-source project
-- 📱 Creating tech content on TikTok to build my personal brand
-- 📫 How to reach me: [jvelozamalaver@gmail.com](mailto:jvelozamalaver@gmail.com)
 
 ## 🔗 Connect with me
 
