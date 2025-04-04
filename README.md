@@ -72,7 +72,7 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
 
 <!-- More projects can be added here -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -88,7 +88,7 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
 
 ## 🛠️ My Favorite Tools
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>Programming and Markup Languages</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
@@ -97,7 +97,7 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>Frameworks and Libraries</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
@@ -107,7 +107,7 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+<h3>Databases and Cloud Hosting</h3>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
@@ -115,7 +115,7 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
-<h3>💻 Software and Tools</h3>
+<h3>Software and Tools</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
@@ -123,21 +123,9 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 
-## 📈 Activity Graph
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
-
-## 👨‍💻 Coding Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="Wakatime Stats" />
-
-## 🎧 What I'm Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=jhonnnydev&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jhonnnydev?label=Followers&style=social" alt="Followers" />
 </div>
