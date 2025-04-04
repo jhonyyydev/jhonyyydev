@@ -75,15 +75,15 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonnnydev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnnydev&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnnydev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 🛠️ My Favorite Tools
@@ -123,6 +123,9 @@ Led the development of a comprehensive system for Fundacion Universitaria Juan d
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 
+## 👨‍💻 Coding Time
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jhonnnydev&theme=tokyonight" alt="Wakatime Stats" />
 ---
 
 <div align="center">
